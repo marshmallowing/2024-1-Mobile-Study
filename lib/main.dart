@@ -20,7 +20,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-//커밋테스트
 class MyHomePage extends StatelessWidget {
   const MyHomePage({super.key, required this.title});
 
